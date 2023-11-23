@@ -12,15 +12,15 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@nuxt/ui": "^2.9.0"
+    "@nuxt/ui": "^2.10.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "1.0.0-beta.27",
+    "@antfu/eslint-config": "2.1.0",
     "@nuxt/devtools": "latest",
-    "@nuxt/image": "^1.0.0",
-    "eslint": "^8.51.0",
-    "nuxt": "^3.8.0",
-    "vue": "^3.3.5",
+    "@nuxt/image": "^1.1.0",
+    "eslint": "^8.54.0",
+    "nuxt": "^3.8.2",
+    "vue": "^3.3.8",
     "vue-router": "^4.2.5"
   }
 }
